@@ -1,0 +1,94 @@
+* {
+ outline: 1px solid red;
+}
+
+
+.center_align {
+  display: flex;
+  vertical-align: middle;
+  margin-left: 24%;
+  padding-top: 5%;
+}
+
+
+.hobbies_div{
+  display: inline-block;
+}
+
+.page1{
+  height: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-image: url("images/background.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+
+  }
+
+.page1 p:first-of-type{
+  font-size: 3rem;
+  margin: 0;
+}
+
+.page1 p:last-of-type{
+  font-size: 1.5rem;
+}
+
+/* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
+.page2{
+  position: relative;
+  background-image: url("images/education.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.image{
+
+  position: relative;
+  width: 25%;
+
+}
+
+.image img{
+
+  width: 100%;
+  height: auto;
+
+
+}
+
+.text_body{
+  display: inline-block;
+  color: white;
+  width: 75%;
+  padding-left: 1rem;
+  /* padding-top: -5%; */
+}
+/* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
+
+.title_text{
+  font-size: 2rem;
+  padding-left: 10px;
+}
+
+
+/* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
+
+.page3{
+  background-image: url("images/background5.jpg");
+  background-size: cover;
+  text-align: center;
+
+}
+
+.page p{
+  font-size: 2rem;
+}
+.page3 img{
+
+ width: 60%;
+  margin: 5%;
+}
