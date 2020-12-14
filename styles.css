@@ -21,7 +21,7 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-image: url("images/background.jpg");
+  background-image: url("background.jpg");
    background-repeat: no-repeat;
    background-size: cover;
 
@@ -39,7 +39,7 @@
 /* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
 .page2{
   position: relative;
-  background-image: url("images/education.jpg");
+  background-image: url("education.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -78,7 +78,7 @@
 /* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
 
 .page3{
-  background-image: url("images/background5.jpg");
+  background-image: url("background5.jpg");
   background-size: cover;
   text-align: center;
 
